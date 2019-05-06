@@ -9,6 +9,8 @@ namespace UnitTestProject1
         public void SuccessTest()
         {
             Assert.IsTrue(true);
+            
+            // Change from Juan
         }
 
         [TestMethod]
