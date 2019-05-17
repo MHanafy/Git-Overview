@@ -6,5 +6,6 @@ namespace ConsoleApp1
 {
     class _04
     {
+        //Deb_4
     }
 }
