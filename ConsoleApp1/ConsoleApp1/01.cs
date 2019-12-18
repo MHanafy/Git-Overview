@@ -6,6 +6,6 @@ namespace ConsoleApp1
 {
     class _01
     {
-        private int _test;
+        private int _test; // should should cause a conflict
     }
 }
