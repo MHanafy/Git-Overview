@@ -6,5 +6,6 @@ namespace ConsoleApp1
 {
     class _01
     {
+        private int _test;
     }
 }
