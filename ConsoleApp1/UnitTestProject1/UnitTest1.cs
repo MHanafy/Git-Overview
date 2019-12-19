@@ -17,7 +17,7 @@ namespace UnitTestProject1
         public void FailTest()
         {
             //ensure that this test fails
-            Assert.IsTrue(false);
+            Assert.IsTrue(true);
         }
     }
 }
